@@ -1,0 +1,20 @@
+﻿# Archivos de Visual Studio 2022
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.cache
+
+# Archivos de compilación
+*.exe
+*.dll
+
+# Configuraciones sensibles
+appsettings.json
+app.config
+
+# SQL Server
+*.mdf
+*.ldf

@@ -10,6 +10,12 @@ namespace PRUEBA_GIT
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("This is a test for GitHub.");
+            Console.WriteLine("Adding a new line to test commit and push.");
+            Console.WriteLine("Testing pull request functionality.");
+            Console.WriteLine("Finalizing the test.");
+            Console.ReadKey();
         }
     }
 }
